@@ -1,7 +1,7 @@
 
 # Road Accident Dashboard
 
-##  Problem Statemnet:
+##  Problem Statement:
 The dashboard presents a problem related to road safety, indicating a high number of road accidents leading to casualties. The data could be used to identify patterns and areas that require improvement to reduce accident rates.
 
 
