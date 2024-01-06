@@ -40,6 +40,7 @@ Included clickable objects to navigate seamlessly between different dashboard pa
  
  ## Snapshot
 
-![Screenshot 2024-01-03 150813](https://github.com/missrakhi/Road-Accident-Dashboard/assets/154977141/a81cc179-4668-4d28-9202-d8e934cec795)
+![Screenshot 2024-01-03 150813](https://github.com/missrakhi/Road-Accident-Dashboard/assets/154977141/793872d3-d940-4d25-91f0-5c4567a24393)
+
 
 
