@@ -21,7 +21,7 @@ Finally, a dashboard was built in Excel by incorporating slicers and timelines, 
 Included clickable objects to navigate seamlessly between different dashboard pages or locations.
 
 ## Snapshot
-![Screenshot 2024-01-03 150813](https://github.com/missrakhi/Road-Accident-Dashboard/assets/154977141/30c4ce10-22ac-48ff-b079-7ddfa6c3687f)
+![Screenshot 2024-01-07 195215](https://github.com/missrakhi/Road-Accident-Dashboard/assets/154977141/23c921ac-c361-42f8-ba8e-9e903ad7a3c4)
 
 
 ## Key Insights:
